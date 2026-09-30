@@ -58,7 +58,7 @@ This project was built as a **full-stack web application** combining:
 ## Project Structure
 
 ```
-gender-recognition-project/
+ai-face-analysis-project/
 ├── backend/
 │   ├── app.py                 # Flask API server (main file)
 │   ├── requirements.txt       # Python dependencies
@@ -121,8 +121,8 @@ User uploads image / captures from webcam
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/Jayesh-rawal/first.git
-cd first
+git clone https://github.com/codeby-jayesh/ai-face-analysis-project.git
+cd ai-face-analysis-project
 ```
 
 ### Step 2: Install dependencies
@@ -265,8 +265,8 @@ docker-compose up --build
 ## Author
 
 **Jayesh Kumar Rawal**
-- GitHub: [Jayesh-rawal](https://github.com/Jayesh-rawal)
-- Email: rawaljay677@gmail.com
+- GitHub: [codeby-jayesh](https://github.com/codeby-jayesh)
+- Email: 2024btechaidsjayesh17169@poornima.edu.in
 
 ---
 
