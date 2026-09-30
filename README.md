@@ -21,7 +21,7 @@ This project was built as a **full-stack web application** combining:
 
 ## Live Demo
 
-**LIVE URL**: [https://gaze-ai-jayesh.loca.lt](https://gaze-ai-jayesh.loca.lt)
+**LIVE URL**: [https://gender-recognination-ai.onrender.com](https://gender-recognination-ai.onrender.com)
 
 > Upload a photo or use your webcam to analyze faces in real-time!
 
@@ -246,7 +246,7 @@ docker-compose up --build
 - [ ] Add user authentication
 - [ ] Store prediction history in database
 - [ ] Add batch processing (multiple images)
-- [ ] Deploy to cloud (Render/Railway)
+- [x] Deploy to cloud (Render/Railway)
 - [ ] Add dark/light theme toggle
 - [ ] Mobile app (React Native)
 
